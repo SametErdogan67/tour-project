@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+.navbar {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+.navbar a {
+  color: white;
+  padding: 24px 26px;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar a:hover {
+  background-color: rgb(146, 197, 236);
+  color: black;
+}
